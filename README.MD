@@ -5,7 +5,6 @@
 <br>🚀 Comprometido con el aprendizaje: Creo en el crecimiento constante y disfruto aprender cada día algo nuevo para mejorar como profesional.
 
 
-![Tech Logo](<iframe src="https://giphy.com/embed/lQDdDwdZpfYRn1MsJy" width="480" height="365" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tecnocorp-tecnologia-tecnocorptecnologia-ti-osasco-lQDdDwdZpfYRn1MsJy">via GIPHY</a></p>)
 
 
 
