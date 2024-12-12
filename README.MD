@@ -6,9 +6,10 @@
 
 
 
-
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/agustin.nair.75/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/agustin0048/) [![LinkedIn](https://www.linkedin.com/in/agustin-quattrocchi-9b426026a/)](https://www.linkedin.com/in/agustin-quattrocchi-9b426026a/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/agustin.nair.75/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/agustin0048/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/agustin-quattrocchi-9b426026a/)
 
 
 
