@@ -5,7 +5,7 @@
 <br>🚀 Comprometido con el aprendizaje: Creo en el crecimiento constante y disfruto aprender cada día algo nuevo para mejorar como profesional.
 
 
-
+![Tech Logo](https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47zn0qldj7xsyg7qiigjb9zsir6n511o3ebfkqklz5&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
 ## 🌐 Socials:
