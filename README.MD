@@ -4,6 +4,8 @@
 <br>📚 Autodidacta: Siempre estoy explorando nuevas tecnologías y mejorando mis habilidades.
 <br>🚀 Comprometido con el aprendizaje: Creo en el crecimiento constante y disfruto aprender cada día algo nuevo para mejorar como profesional.
 
+![Tech Logo](https://path_to_your_gif.gif)
+
 
 
 ## 🌐 Socials:
