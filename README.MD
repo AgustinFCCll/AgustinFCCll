@@ -1,10 +1,12 @@
+
 # 💫 About Me:
 👨‍💻 Programador apasionado: Me encanta crear soluciones innovadoras y resolver problemas a través del código.
 <br>📚 Autodidacta incansable: Siempre estoy explorando nuevas tecnologías y mejorando mis habilidades.
 <br>🚀 Comprometido con el aprendizaje: Creo en el crecimiento constante y disfruto aprender cada día algo nuevo para mejorar como profesional.
 
 
-##<h1>🌐 Socials:</h1>
+##
+<h1>🌐 Socials:</h1>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/agustin.nair.75/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/agustin0048/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/agustin-quattrocchi-9b426026a/) 
 
 
