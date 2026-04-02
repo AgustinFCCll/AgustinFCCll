@@ -1,20 +1,21 @@
+# Nair Agustin Quattrocchi
 
-# Nair Agustin Quattrocchi:
+## Sobre mí
+👨‍💻 **Programador apasionado**: Me encanta crear soluciones innovadoras y resolver problemas a través del código.  
+📚 **Autodidacta**: Siempre estoy explorando nuevas tecnologías y mejorando mis habilidades.  
+🚀 **Comprometido con el aprendizaje**: Creo en el crecimiento constante y disfruto aprender algo nuevo cada día para mejorar como profesional.  
 
-# Sobre mi: 
-👨‍💻 Programador apasionado: Me encanta crear soluciones innovadoras y resolver problemas a través del código.
-<br>📚 Autodidacta: Siempre estoy explorando nuevas tecnologías y mejorando mis habilidades.
-<br>🚀 Comprometido con el aprendizaje: Creo en el crecimiento constante y disfruto aprender cada día algo nuevo para mejorar como profesional.
+---
 
+## 🌐 Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/agustin.nair.75/)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/agustin0048/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/agustin-quattrocchi-9b426026a/)  
 
+---
 
-# 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/agustin.nair.75/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/agustin0048/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/agustin-quattrocchi-9b426026a/)
+## 🔧 Desarrollo y Automatización
 
-
-# 🔧 Desarrollo y Automatización
 **Lenguajes y Frameworks:**  
 - .NET / C# (ASP.NET Core, Entity Framework)  
 - Python / FastAPI  
@@ -23,13 +24,15 @@
 **Bases de Datos:**  
 - PostgreSQL  
 - SQL Server  
-- MongoDB
+- MongoDB  
 
-**🎓 Formación y Certificaciones **
-- Foundational C# with Microsoft (Microsoft)
-- Fullstack .NET (HappyProgrammer)
-- C#  [.Net + SQL] (Maxi Programa)
-- Universidad Python (Udemy)
+---
+
+## 🎓 Formación y Certificaciones
+- **Foundational C#** – Microsoft  
+- **Fullstack .NET** – HappyProgrammer  
+- **C# [.NET + SQL]** – Maxi Programa  
+- **Universidad Python** – Udemy  
 
 
 # 💻 🏷️ Tecnologías que uso:
