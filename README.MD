@@ -5,14 +5,13 @@
 📚 **Autodidacta**: Siempre estoy explorando nuevas tecnologías y mejorando mis habilidades.  
 🚀 **Comprometido con el aprendizaje**: Creo en el crecimiento constante y disfruto aprender algo nuevo cada día para mejorar como profesional.  
 
----
+
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/agustin.nair.75/)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/agustin0048/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/agustin-quattrocchi-9b426026a/)  
 
----
 
 ## 🔧 Desarrollo y Automatización
 
@@ -26,7 +25,6 @@
 - SQL Server  
 - MongoDB  
 
----
 
 ## 🎓 Formación y Certificaciones
 - **Foundational C#** – Microsoft  
