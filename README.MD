@@ -12,11 +12,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/agustin-quattrocchi-9b426026a/)
 
 
-# 🔧 Desarrollo y automatización
-.NET / C# (ASP.NET Core, Entity Framework)
-.PostgreSQL / SQL Server
-.React
-.Python / FastAPI
+# 🔧 Desarrollo y Automatización
+**Lenguajes y Frameworks:**  
+- .NET / C# (ASP.NET Core, Entity Framework)  
+- Python / FastAPI  
+- React  
+
+**Bases de Datos:**  
+- PostgreSQL  
+- SQL Server  
+- MongoDB
 
 
 # 💻 🏷️ Tecnologías que uso:
