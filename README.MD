@@ -1,5 +1,7 @@
 
-# 💫 About Me:
+# Nair Agustin Quattrocchi:
+
+# Sobre mi: 
 👨‍💻 Programador apasionado: Me encanta crear soluciones innovadoras y resolver problemas a través del código.
 <br>📚 Autodidacta: Siempre estoy explorando nuevas tecnologías y mejorando mis habilidades.
 <br>🚀 Comprometido con el aprendizaje: Creo en el crecimiento constante y disfruto aprender cada día algo nuevo para mejorar como profesional.
